@@ -41,15 +41,3 @@ The primary aim of this project is to:
 3. **Comparison of Extraction Methods:**
    - Evaluate the performance of the model on both manually extracted and segmentation-extracted cells.
    - Analyze the differences in explainability and accuracy between these extraction techniques, particularly in the context of imbalanced classes.
-
-## Getting Started
-
-**Clone the Repository:**
-   ```bash
-   git clone https://github.com/ameer-alwadiya/cancer-cell-classification-using-machine-learning.git
-   cd cancer-cell-classification-using-machine-learning
-   ```
-
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests. For any questions or suggestions, please open an issue in the repository.
