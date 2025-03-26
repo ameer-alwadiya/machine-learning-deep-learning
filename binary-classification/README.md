@@ -54,20 +54,12 @@ The Support Vector Classifier demonstrates the highest accuracy in predicting th
 
 ## How to Run
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/ameer-alwadiya/binary-classification-ml.git
-   ```
-2. Navigate to the directory:
+1. Navigate to the directory:
    ```
    cd binary-classification-ml
    ```
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
    ```
    jupyter notebook Predicting%20the%20Biodegradability%20of%20Chemicals.ipynb
    ```
-5. Run the notebook cells to execute the code and reproduce the results.
+3. Run the notebook cells to execute the code and reproduce the results.
