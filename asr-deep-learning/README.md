@@ -71,23 +71,7 @@ Install the necessary packages using pip:
 ```bash
 pip install tensorflow numpy matplotlib scikeras scikit-learn hyperopt
 ```
-
-### Running the Notebook
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/ameer-alwadiya/ASR-deep-learning.git
-    cd ASR-deep-learning
-    ```
-
-2. **Open the Jupyter Notebook**:
-
-    ```bash
-    jupyter notebook "automated speech recognition (ASR) system.ipynb"
-    ```
-
-3. **Run the Notebook**: Execute the cells in the notebook to preprocess the data, build and train the model, and perform optimization.
+**Run the Notebook**: Execute the cells in the notebook to preprocess the data, build and train the model, and perform optimization.
 
 ## Brief Description of the Notebook
 
@@ -128,15 +112,3 @@ pip install tensorflow numpy matplotlib scikeras scikit-learn hyperopt
 
 The notebook demonstrates different approaches to improve the ASR model's accuracy using data augmentation and hyperparameter optimization. It shows that combining original data with augmented data can improve model performance, and further optimization using grid search and Bayesian techniques can yield better results.
 
-## Conclusion
-
-This project provides a comprehensive approach to building and optimizing a deep learning-based ASR system. It highlights the importance of data preprocessing, augmentation, and hyperparameter tuning in achieving higher model accuracy.
-
-## Acknowledgments
-
-- The implementation details and results were adapted from various deep learning and ASR research papers and tutorials.
-- Special thanks to the TensorFlow and Keras teams for their excellent libraries and documentation.
-
----
-
-Feel free to explore the notebook, experiment with different parameters, and improve the model further. If you have any questions or suggestions, please open an issue or submit a pull request. Happy coding!
